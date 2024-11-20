@@ -8,10 +8,18 @@ By providing a backlink to W3Layouts.com you can use this template for both pers
 
 
 LIMITATIONS
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> 6bc6e2c52d33ddf826af3c8cd8f3e5db9b2a4d6b
 - Do not distribute W3Layouts website templates.
 - Do not offer downloads either the original or a modified version of our website templates.
 
 
 
+<<<<<<< HEAD
 For more details contact support@w3layouts.com
+=======
+For more details contact support@w3layouts.com
+>>>>>>> 6bc6e2c52d33ddf826af3c8cd8f3e5db9b2a4d6b
